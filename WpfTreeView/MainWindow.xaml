@@ -19,7 +19,7 @@
 
                                 <StackPanel Orientation="Horizontal">
                                     <Image Width="20" Margin="3" Source="Images/drive.png"/>
-                                    <TextBlock VerticalAlignment="Center" Text="some folder"/>
+                                    <TextBlock VerticalAlignment="Center" Text="{Binding}"/>
                                 </StackPanel>
                                 
                             </DataTemplate>
