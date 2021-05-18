@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VisualStudioProjects\\WpfTreeView\\WpfTreeView\\WpfTreeView\\WpfTreeView.csproj",
+      "projectUniqueName": "F:\\VisualStudioProjects\\WpfTreeView\\WpfTreeView\\WpfTreeView.csproj",
       "projectName": "WpfTreeView",
-      "projectPath": "F:\\VisualStudioProjects\\WpfTreeView\\WpfTreeView\\WpfTreeView\\WpfTreeView.csproj",
+      "projectPath": "F:\\VisualStudioProjects\\WpfTreeView\\WpfTreeView\\WpfTreeView.csproj",
       "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-      "outputPath": "F:\\VisualStudioProjects\\WpfTreeView\\WpfTreeView\\WpfTreeView\\obj\\",
+      "outputPath": "F:\\VisualStudioProjects\\WpfTreeView\\WpfTreeView\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config",
